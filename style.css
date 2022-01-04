@@ -126,3 +126,11 @@ span {
     padding: 10px 40px;
     border-radius: 10px;
 }
+
+p {
+    color: gray;
+}
+
+#copyright {
+    text-align: center;
+}
